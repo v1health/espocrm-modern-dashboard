@@ -1,0 +1,13 @@
+{
+  "view": "module/v1-modern-dashboard/views/dashlets/overview",
+  "accessDataList": [
+    {
+      "inPortalDisabled": true
+    }
+  ],
+  "options": {
+    "defaults": {
+      "title": "Modern Overview (Demo)"
+    }
+  }
+}

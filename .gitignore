@@ -1,0 +1,7 @@
+dist/
+.env*
+*.key
+*.pem
+*.sql
+__pycache__/
+*.pyc

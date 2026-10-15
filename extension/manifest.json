@@ -1,0 +1,10 @@
+{
+  "name": "Modern Dashboard Demo by V1 Health",
+  "version": "0.1.0",
+  "acceptableVersions": [
+    ">=10.0.0 <11.0.0"
+  ],
+  "releaseDate": "2026-10-15",
+  "author": "V1 Health",
+  "description": "Scoped modern demo dashlet for EspoCRM; no production data or API calls"
+}
