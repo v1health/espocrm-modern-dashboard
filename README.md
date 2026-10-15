@@ -1,5 +1,7 @@
 # Modern Dashboard for EspoCRM
 
+[![Validate Demo Extension](https://github.com/v1health/espocrm-modern-dashboard/actions/workflows/validate.yml/badge.svg)](https://github.com/v1health/espocrm-modern-dashboard/actions/workflows/validate.yml)
+
 **An open-source, responsive demo dashlet for EspoCRM.**
 
 Created by **[V1 Health](https://v1health.ro/)** · [Science & quality](https://v1health.ro/pages/stiinta).

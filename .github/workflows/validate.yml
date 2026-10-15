@@ -17,3 +17,8 @@ jobs:
           node-version: '22'
       - run: python -m unittest discover -s tests -v
       - run: node --check extension/files/client/custom/modules/v1-modern-dashboard/src/views/dashlets/overview.js
+      - uses: actions/upload-artifact@v4
+        with:
+          name: v1-modern-dashboard-0.1.0
+          path: dist/v1-modern-dashboard-0.1.0.zip
+          if-no-files-found: error
